@@ -1,0 +1,2 @@
+sofa/component/solidmechanics/fem/elastic/ElementLinearSmallStrainFEMForceField.inl
+sofa/component/solidmechanics/fem/elastic/FastTetrahedralCorotationalForceField.inl
